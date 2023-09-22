@@ -1,7 +1,7 @@
 Package: OmicSense
 Type: Package
 Title: Biosensor Development using Omics Data
-Version: 0.1.1
+Version: 0.2.0
 Authors@R: 
     c(person(given = "Takahiko",
              family = "Koizumi",
@@ -30,9 +30,9 @@ VignetteBuilder: knitr
 Config/testthat/edition: 3
 Imports: ggplot2, kernlab
 NeedsCompilation: no
-Packaged: 2023-04-25 22:00:42 UTC; taka
+Packaged: 2023-09-22 21:14:43 UTC; taka
 Author: Takahiko Koizumi [aut, cre],
   Kenta Suzuki [ctb],
   Yasunori Ichihashi [ctb]
 Repository: CRAN
-Date/Publication: 2023-04-26 06:00:08 UTC
+Date/Publication: 2023-09-22 21:30:08 UTC
